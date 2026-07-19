@@ -127,11 +127,13 @@ The least significant bit of image pixels is modified to embed secret informatio
 
 ### Home Screen
 
-*(Add screenshot here)*
+<img width="775" height="577" alt="image" src="https://github.com/user-attachments/assets/311e2f21-4902-4986-bf7e-4d652048c769" />
+
 
 ### Hidden Message Extraction
 
-*(Add screenshot here)*
+<img width="572" height="431" alt="image" src="https://github.com/user-attachments/assets/ae254cd4-ab7e-4c93-b394-b2b61c862260" />
+
 
 ---
 
